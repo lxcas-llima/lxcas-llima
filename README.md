@@ -1,7 +1,7 @@
 
 ### Olá eu sou o Lucas Lima 👋
 
-Estudo programação há 2 anos, com foco em desenvolvimento web, back-end e automação de processos. Gosto de trabalhar com APIs, bancos de dados e criar soluções que otimizam tarefas do dia a dia. Estou sempre em busca de evoluir como desenvolvedor e criar sistemas cada vez mais eficientes, escaláveis e bem estruturados.
+Venho me especializando a programação há 2 anos, com foco em desenvolvimento web, back-end e automação de processos. Gosto de trabalhar com APIs, bancos de dados e criar soluções que otimizam tarefas do dia a dia. Estou sempre em busca de evoluir como desenvolvedor e criar sistemas cada vez mais eficientes, escaláveis e bem estruturados.
 
 ![Lucas Lima GitHub stats](https://github-readme-stats.vercel.app/api?username=lxcas-llima&show_icons=true&theme=dracula)
 
